@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/paragit2/v17
+/labITgit/.vs/labITgit/FileContentIndex
+/labITgit/.vs/labITgit/v17/ipch/AutoPCH/cadfadec70eac971
+/labITgit/.vs/labITgit/v17
+/.vs
