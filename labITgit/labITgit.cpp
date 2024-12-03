@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";//bpvtybkf
-    std::cout << "2 string";
+    std::cout << "2 string";//bebebe
     std::cout << 444;
     int a;
 }
