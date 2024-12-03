@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "2 string";
     std::cout << 444;
+    int a;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
